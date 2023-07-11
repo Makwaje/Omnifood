@@ -38,6 +38,7 @@ Paragraph default: 1.6
 
 --- 04 BORDER-RADIOS
 Default: 9px
+Medium: 11px
 
 --- 05 WHITESPACE 
 
@@ -86,6 +87,10 @@ body {
 
 .grid--2-cols {
   grid-template-columns: repeat(2, 1fr);
+}
+
+.grid--3-cols {
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .grid--4-cols {
@@ -176,4 +181,8 @@ body {
 
 .margin-right-sm {
   margin-right: 1.6rem !important;
+}
+
+strong {
+  font-weight: 500;
 }
