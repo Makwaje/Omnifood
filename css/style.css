@@ -27,7 +27,7 @@
   list-style: none;
   display: flex;
   align-items: center;
-  gap: 3.2rem;
+  gap: 4.8rem;
 }
 .main-nav-link:link,
 .main-nav-link:visited {
@@ -314,7 +314,7 @@
 }
 
 .testimonials-container {
-  padding: 9.6rem 0;
+  padding: 9.6rem;
 }
 
 .testimonials {
@@ -482,7 +482,7 @@
 
 .feature-text {
   font-size: 1.8rem;
-  line-height: 1.8rem;
+  line-height: 1.8;
 }
 
 /* ******************************** */
